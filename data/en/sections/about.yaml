@@ -39,7 +39,7 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 86
+  percentage: 95
   color: blue
 - name: Story Telling
   percentage: 75
