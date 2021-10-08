@@ -1,0 +1,17 @@
+# some information about you
+name: "Jacob Linao"
+nickname: "Jacob"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi! I'm"
+image: "images/author/headshot.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "jacobnlinao@gmail.com"
+  phone: "(714)353-6338"
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I am a graduate student
+  - I love tech
+  - I love to work on impactful data driven projects

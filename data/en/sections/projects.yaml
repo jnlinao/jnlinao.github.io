@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Data Science
+  filter: "data-science"
+- name: Product
+  filter: "product"
+- name: Machine Learning
+  filter: machine-learning
+- name: Data Mining
+  filter: "data-mining"
+
+
+# your projects
+projects:
+- name: IT Service Management - A Data Science Use Case
+  logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Aug 2021"
+  repo: https://github.com/jnlinao/penguin # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Building a Machine Learning Web App that classifies error prone IT tickets
+  tags: ["data-science", "machine-learning"]
+
+- name: Natural Language Processing of Consumer Reviews - Won Best Undergraduate Project
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "May 2021"
+  repo: https://github.com/jnlinao/Yelp-Sentiment-Analysis
+  #url: ""
+  summary: Sentiment Classification and Topic Modeling on Los Angeles Yelp Reviews during the COVID-19 Pandemic
+  tags: ["data-science", "machine-learning"]

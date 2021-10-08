@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+
+- name: M.S Business Analytics; Concentration in Data Science
+  timeframe: 2021-2022
+  institution:
+    name: University of California, Irvine
+    url: "https://uci.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.8
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Statistics for Data Science
+    - name: Advanced Data and Programming
+    - name: Marketing Analytics
+    - name: Advanced Machine Learning
+      outOf: 4
+  publications: #(optional)
+  extracurricularActivities: #(optional)
+  - Hackathon Developer for Merage Analytics Club
+
+- name: B.S Computer Information Systems; Concentration in Business Intelligence
+  timeframe: 2017-2021
+  institution:
+    name: California State Polytechnic University, Pomona
+    url: "https://www.cpp.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.5
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Advanced Data Analysis
+    - name: Data Mining
+    - name: Statistics for Business Analytics
+    - name: Object Oriented Programming
+    - name: Business Intelligence
+    - name: Operations Analytics
+    - name: Management Information Systems
+      outOf: 4
+  publications: 
+    - title: Yelp Review Sentiment Analysis
+      url: 'https://docs.google.com/document/d/1Ws0Y-honxr374cJL-Vd9GvKTCaxI4lhyTQn-2ds1_vY/edit?usp=sharing'
+  extracurricularActivities: #(optional)
+  - Director of Database Marketing at Digital Marketing and Analytics Club
+  - Data Analyst Research Assistant for College of Marketing
+  - Head Teaching Assistant for College of Business
+  - VP of Academics for Zeta Phi Rho
+  - Intramural Basketball

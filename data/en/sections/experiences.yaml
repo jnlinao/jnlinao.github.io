@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Niagara Bottling
+    url: "https://www.linkedin.com/company/niagara-bottling-llc/"
+    location: Diamond Bar, CA
+    # company overview
+    overview: Throughout the following decade, Niagara’s significant developments in vertical integration, innovative bottle design, and high speed manufacturing positioned the company as the industry leading private label bottled water supplier in the Western United States, supplying major retailers across the nation. We are committed to producing high quality bottled water, while reducing our impact on the environment.
+  positions:
+  - designation: Data Scientist Intern
+    start: May 2020
+    end:  Aug 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developed and deployed an NLP Machine Learning multi-classification model in Python as a user facing web application to resolve a department wide issue, reducing ticket assignment error by 25% and saving est. $25,000/YR in resource allocation
+    - Led 8 SQL projects by designing functions, triggers, procedures, and advanced ad-hoc queries to achieve several department results such as a 91% cycle time decrease, fully eliminating data capture error for 2 product lines, and automating 6 daily reports
+    - Enabled team visibility and strategic execution of 5+ concurrent project epics by conducting EDA and descriptive analytics using Excel and PowerBI in order to understand historical trends and apply insights to mitigate system errors
+    - Drove bi-weekly team meetings for 10 analysts and management over KPI reports, ticket trends, and data-driven suggestions
+    - Created 3 Excel macros that automated work functions, resulting in an instant (est.) 6.5 hours weekly saving for each teammate
+
+
+- company:
+    name: NBCUniversal
+    url: "https://www.nbcuniversal.com/"
+    location: Burbank, CA
+    overview: NBCUniversal owns and operates over 20 different businesses across 30 countries including a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, world-renowned theme parks and a premium ad-supported streaming service.
+  positions:
+  - designation: Data Analyst Intern
+    start: Sep 2020
+    end: Dec 2020
+    responsibilities:
+    - Selected as the sole intern to lead the data migration in a global ERP integration of SAP HANA, responsible for all data tasks from extraction, aggregation, analysis of data, and liaising insights to an international team of directors
+    - Cleaned and restructured over 10 million rows of SAP records using Python, distilling down to 4 KPIs that aligned the distinct needs and synergy of several different teams, which were highlighted using Tableau visualizations
+    - Pulled data from 3 disparate database sources using PL/SQL and connected to web application servers to provide a consolidated dashboard that educated technical/non-technical teams
+    - Designed 20+ visualizations in SAP Lumira to assist management in tracking operation performance through drill-down analysis
+

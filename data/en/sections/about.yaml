@@ -1,0 +1,55 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Current MS Business Analytics Student
+# your company information
+company:
+  name: UC Irvine
+  url: "https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: '
+Born and raised in OC, California, I learned from my immigrant parents the importance of work ethnic, integrity, and enjoying life. Life is all about the roles and relationships we find ourselves in, and I’m always working to build upon these by being genuine and intentional.
+
+I’m interested in integrating empathy into the intricacies and strategies of data science in order to bring about insights that incite constructive change. The key to unlocking the benefits of data is the bridge of understanding that links to human intuition. What is it about data that you’re passionate about? Let’s chat!'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/jnlinao"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jacobnicholasl/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 86
+  color: blue
+- name: Story Telling
+  percentage: 75
+  color: yellow
+- name: Communication
+  percentage: 90
+  color: green
+- name: Business Sense
+  percentage: 65
+  color: orange
+- name: Curiousity
+  percentage: 95
+  color: white
