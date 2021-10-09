@@ -42,11 +42,14 @@ projects:
   summary: Sentiment Classification and Topic Modeling on Los Angeles Yelp Reviews during the COVID-19 Pandemic
   tags: ["data-science", "machine-learning"]
 
-- name: Posting More Coming Soon!
-  logo: 
+- name: GFK NextGen Data Science Hackathon - 2nd Place Winner
+  logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: 
-  repo: 
-  #url: ""
-  summary: 
-  tags: ["data-science"]
+  timeline: "May 2020"
+  #repo: https://github.com/jnlinao/Yelp-Sentiment-Analysis
+  url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
+  summary: Developing a data driven strategic recommendation for a new product
+  tags: ["data-science", "product"]
+
+
+
