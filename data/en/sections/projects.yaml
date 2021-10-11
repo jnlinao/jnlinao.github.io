@@ -51,5 +51,12 @@ projects:
   summary: Developing a data driven strategic recommendation for a new product
   tags: ["data-science", "product"]
 
+- name: Starbucks Customer Analysis
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Sep 2021"
+  repo: https://github.com/jnlinao/starbucks_CustomerAnalysis
+  summary: EDA, Regression, and Segmentation of Consumer survey data to provide strategic business recommendations
+  tags: ["data-science", "product", "machine-learning"]
 
 
