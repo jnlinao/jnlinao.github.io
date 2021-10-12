@@ -32,6 +32,14 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Building a Machine Learning Web App that classifies error prone IT tickets
   tags: ["data-science", "machine-learning"]
+  
+- name: Starbucks Customer Analysis
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Sep 2021"
+  repo: https://github.com/jnlinao/starbucks_CustomerAnalysis
+  summary: EDA, Regression, and Segmentation of Consumer survey data to provide strategic business recommendations
+  tags: ["data-science", "product", "machine-learning"]
 
 - name: Natural Language Processing of Consumer Reviews - Won Best Undergraduate Project
   logo: /images/sections/projects/tensorflow.png
@@ -50,13 +58,5 @@ projects:
   url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
   summary: Developing a data driven strategic recommendation for a new product
   tags: ["data-science", "product"]
-
-- name: Starbucks Customer Analysis
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Sep 2021"
-  repo: https://github.com/jnlinao/starbucks_CustomerAnalysis
-  summary: EDA, Regression, and Segmentation of Consumer survey data to provide strategic business recommendations
-  tags: ["data-science", "product", "machine-learning"]
 
 
