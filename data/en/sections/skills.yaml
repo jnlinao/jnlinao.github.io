@@ -32,7 +32,7 @@ skills:
   url: "https://www.microsoft.com/en-us/sql-server/sql-server-2019"
 
 - name: AWS
-  logo: "/images/sections/skills/sql.png"
+  logo: "/images/sections/skills/aws.png"
   summary: "Designed data preprocessing pipelines on Athena, data science models on Pyspark and AWS EMR, and data storage using S3"
   url: "https://www.microsoft.com/en-us/sql-server/sql-server-2019"
   
