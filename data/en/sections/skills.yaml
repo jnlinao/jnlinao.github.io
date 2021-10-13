@@ -25,3 +25,10 @@ skills:
   logo: "/images/sections/skills/r.png"
   summary: "Conducted advanced statistical research for data science using ddplyr and ggplot2"
   url: "https://www.r-project.org/"
+  
+- name: SQL
+  logo: "/images/sections/skills/sql.png"
+  summary: "Built automation and business process optimization queries in PL/SQL, designing data pipelines to build dashboards to display on web servers, designing daily queries from over 50 tables and several joins, star-schema design."
+  url: "https://www.microsoft.com/en-us/sql-server/sql-server-2019"
+  
+  
