@@ -12,18 +12,18 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Data Science
-  filter: "data-science"
 - name: Product
   filter: "product"
 - name: Machine Learning
-  filter: machine-learning
+  filter: "machine-learning"
 - name: Data Mining
   filter: "data-mining"
 - name: Python
   filter: "python"
 - name: R
   filter: "r"
+- name: Big Data
+  filter: "big-data"
 
 
 # your projects
@@ -35,7 +35,7 @@ projects:
   repo: https://github.com/jnlinao/penguin # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Building a Machine Learning Web App that classifies error prone IT tickets
-  tags: ["data-science", "machine-learning", "python"]
+  tags: ["machine-learning", "python"]
   
 - name: Starbucks Customer Analysis
   logo: /images/sections/projects/tensorflow.png
@@ -43,7 +43,7 @@ projects:
   timeline: "Sep 2021"
   repo: https://github.com/jnlinao/starbucks_CustomerAnalysis
   summary: EDA, Regression, and Segmentation of Consumer survey data to provide strategic business recommendations
-  tags: ["data-science", "product", "machine-learning", "r"]
+  tags: ["product", "machine-learning", "r"]
 
 - name: Natural Language Processing of Consumer Reviews - Won Best Undergraduate Project
   logo: /images/sections/projects/tensorflow.png
@@ -52,7 +52,7 @@ projects:
   repo: https://github.com/jnlinao/Yelp-Sentiment-Analysis
   #url: ""
   summary: Sentiment Classification and Topic Modeling on Los Angeles Yelp Reviews during the COVID-19 Pandemic
-  tags: ["data-science", "machine-learning", "python"]
+  tags: ["machine-learning", "python"]
 
 - name: GFK NextGen Data Science Hackathon - 2nd Place Winner
   logo: /images/sections/projects/tensorflow.png
@@ -61,6 +61,14 @@ projects:
   #repo: https://github.com/jnlinao/Yelp-Sentiment-Analysis
   url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
   summary: Developing a data driven strategic recommendation for a new product
-  tags: ["data-science", "product"]
+  tags: ["product"]
 
+- name: Big Data Price Prediction
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "March 2021"
+  repo: https://github.com/jnlinao/PriceDiamonds--Pyspark_Classification
+  #url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
+  summary: Using AWS S3 and EMR to build Machine Learning models in Pyspark
+  tags: ["product", "machine-learning", "big-data"]
 
