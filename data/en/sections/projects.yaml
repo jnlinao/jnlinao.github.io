@@ -24,7 +24,8 @@ buttons:
   filter: "r"
 - name: Big Data
   filter: "big-data"
-
+- name: Case Study
+  filter: "case-study"
 
 # your projects
 projects:
@@ -62,6 +63,16 @@ projects:
   url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
   summary: Developing a data driven strategic recommendation for a new product
   tags: ["product"]
+ 
+ 
+- name: Real Madrid Case Study
+  logo: /images/sections/projects/tensorflow.png
+  role: Market Researcher
+  timeline: "Oct 2021"
+  #repo: https://github.com/jnlinao/Yelp-Sentiment-Analysis
+  url: "https://drive.google.com/file/d/1L9uUP_vTFSbXGMR5FXOIEKkrlBNeE0av/view?usp=sharing"
+  summary: Conducting a comprehensive analysis of market penetration opportunities in digital transformation and data governance
+  tags: ["product", "case-study"]
 
 - name: Big Data Price Prediction
   logo: /images/sections/projects/tensorflow.png
