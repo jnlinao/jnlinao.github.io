@@ -28,6 +28,9 @@ degrees:
     - name: Advanced Data and Programming
     - name: Marketing Analytics
     - name: Advanced Machine Learning
+    - name: Predictive Analytics
+    - name: Customer and Social Analytics
+    - name: Management Science for Analytics
       outOf: 4
   publications: #(optional)
   extracurricularActivities: #(optional)
