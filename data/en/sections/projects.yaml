@@ -83,3 +83,14 @@ projects:
   summary: Using AWS S3 and EMR to build Machine Learning models in Pyspark
   tags: ["machine-learning", "big-data"]
 
+- name: Mental Health in the Workplace
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "December 2021"
+  repo: https://github.com/jnlinao/MentalHealth_inTheWorkplace
+  #url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
+  summary: A people driven data science use case focused on understanding mental health issues
+  tags: ["machine-learning", "python", "data-mining"]
+  
+ 
+
