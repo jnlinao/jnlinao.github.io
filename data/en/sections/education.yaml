@@ -31,6 +31,9 @@ degrees:
     - name: Predictive Analytics
     - name: Customer and Social Analytics
     - name: Management Science for Analytics
+    - name: Natural Language Processing
+    - name: Deep Learning and Applications
+    - name: Product Lifecycle Analytics
       outOf: 4
   publications: #(optional)
   extracurricularActivities: #(optional)
