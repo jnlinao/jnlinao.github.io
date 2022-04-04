@@ -99,7 +99,7 @@ projects:
   repo: https://github.com/jnlinao/StarDigital_PropensityScoreMatching
   #url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
   summary: Conducting an A/B test using PSM and Regression for a Freemium Business Model Music Platform
-  tags: ["machine-learning", "python", "case-study", "product"]
+  tags: ["machine-learning", "r", "case-study", "product"]
   
 - name: Loan Default Risk Prediction
   logo: /images/sections/projects/tensorflow.png
