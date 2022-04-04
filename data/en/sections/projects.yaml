@@ -92,5 +92,23 @@ projects:
   summary: A people driven data science use case focused on understanding mental health issues
   tags: ["machine-learning", "python", "data-mining"]
   
+- name: Propensity Score Matching
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "March 2022"
+  repo: https://github.com/jnlinao/StarDigital_PropensityScoreMatching
+  #url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
+  summary: Conducting an A/B test using PSM and Regression for a Freemium Business Model Music Platform
+  tags: ["machine-learning", "python", "case-study", "product"]
+  
+- name: Loan Default Risk Prediction
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "March 2022"
+  repo: https://github.com/jnlinao/LoanDefaultRisk_Regression
+  #url: "https://docs.google.com/presentation/d/1F17lM4FB2-HAFJKUBTPOfOMMDhMI5CaZ2T-PJ2IbB7I/edit?usp=sharing"
+  summary: Using sophisticated feature engineering, data cleaning, and machine learning methods to create insights 
+  tags: ["machine-learning", "r", "data-mining"]
+  
  
 
