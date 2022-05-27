@@ -34,22 +34,3 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/jacobnicholasl/"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
-  percentage: 90
-  color: blue
-- name: Story Telling
-  percentage: 75
-  color: yellow
-- name: Communication
-  percentage: 90
-  color: green
-- name: Business Sense
-  percentage: 65
-  color: orange
-- name: Curiousity
-  percentage: 95
-  color: white
